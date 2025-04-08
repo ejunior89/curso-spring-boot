@@ -1,13 +1,13 @@
-package io.github.cursodsousa.arquiteturaspring;
+package io.github.ejunior89.produtosapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ArquiteturaspringApplication {
+public class ProdutosApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ArquiteturaspringApplication.class, args);
+		SpringApplication.run(ProdutosApiApplication.class, args);
 	}
 
 }
