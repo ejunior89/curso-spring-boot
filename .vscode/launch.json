@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ArquiteturaspringApplication<arquiteturaspring>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "io.github.ejunior89.arquiteturaspring.ArquiteturaspringApplication",
+      "projectName": "arquiteturaspring",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
